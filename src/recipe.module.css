@@ -1,0 +1,13 @@
+.recipef {
+    border-radius: 20px;
+    box-shadow: 10px 20px 30px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: aliceblue;
+    align-content: left;
+    min-width: 35%;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+}
